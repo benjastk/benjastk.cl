@@ -28,7 +28,7 @@ class FormularioContacto extends Mailable
      */
     public function build()
     {
-        return $this->from('benjamin.perez@informatica.isbast.com')
+        return $this->from('admin@benjaminperez.cl')
                 ->subject('Formulario Contacto benjaminperez.cl')
                 ->view('emails.mail');
     }
