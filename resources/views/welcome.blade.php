@@ -124,9 +124,9 @@
                 <div class="row">
                     <div class="col-md-12">
                         <!-- logo begin -->
-                        <div id="logo">
+                        <div id="logo" style="width: 50%">
                             <a href="/">
-                                <img class="logo" src="images/logo.png" alt="">
+                                <img class="logo" src="images-slider/logo2.png" alt="" style="width: 32%">
                             </a>
                         </div>
                         <!-- logo close -->
@@ -169,7 +169,7 @@
 
                 <div class="center-y text-center">
                     <div class="text-center sm-hide">
-                        <img src="images/logo-border.png" alt="logo">
+                        <img src="images-slider/logo3.png" alt="logo">
                     </div>
 
                     <div class="center-y text-center">
