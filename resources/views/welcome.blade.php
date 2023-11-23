@@ -34,6 +34,15 @@
    <link href="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.min.css" rel="stylesheet" />
     <!-- load fonts -->
     <link rel="stylesheet" href="css/let-it-snow.css" type="text/css">
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CKDZVLQE30"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-CKDZVLQE30');
+    </script>
     <style>
         @media (min-width: 451px) and (max-width: 800px) {
             .servicios{
